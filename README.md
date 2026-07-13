@@ -32,7 +32,7 @@ A privacy-first cryptocurrency wallet designed for Tails OS with Tor bridge supp
 
 ```bash
 git clone https://github.com/ra1d0n-programmer/tails-wallet.git
-cd tails-wallet ’’’
+cd tails-wallet```
 
 2. Install dependencies
 
