@@ -198,5 +198,3 @@ This wallet was built for:
 Stay private. Stay safe.
 
 ```
-
----
