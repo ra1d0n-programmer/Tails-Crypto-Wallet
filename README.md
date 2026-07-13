@@ -34,13 +34,13 @@ A privacy-first cryptocurrency wallet designed for Tails OS with Tor bridge supp
 git clone https://github.com/ra1d0n-programmer/tails-wallet.git
 cd tails-wallet```
 
-2. Install dependencies
+### 2. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Run the wallet
+### 3. Run the wallet
 
 ```bash
 python3 main.py
